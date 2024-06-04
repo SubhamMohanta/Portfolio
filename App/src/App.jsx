@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import './App.css'
-import Image from "./assets/1.jpg"
+import Image from "./assets/1.png"
 import Lenis from 'lenis'
 import { useForm, ValidationError } from '@formspree/react';
 
